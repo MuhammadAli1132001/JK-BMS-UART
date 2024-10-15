@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.compilerPath": "C:/Users/msalm/.platformio/packages/toolchain-sdcc@1.30901.11242/bin/sdcc.exe",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "lcd.h": "c",
+        "gpio.h": "c",
+        "stm8s_gpio.h": "c",
+        "stm8s.h": "c",
+        "wiring-header.h": "c",
+        "arduino.h": "c",
+        "jk_bms.h": "c",
+        "liquidcrystal.h": "c",
+        "serial.h": "c",
+        "menu.h": "c"
+    }
+}
